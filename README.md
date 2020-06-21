@@ -1,2 +1,2 @@
 # TD-Runway
-A Runway ML wrapper for TouchDesigner
+A [Runway ML](https://runwayml.com) wrapper for [TouchDesigner](https://derivative.ca).
